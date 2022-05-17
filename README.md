@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there I'm Yash👋
 
-<!--
-**yashhhgupta/yashhhgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :zap: I love programming, problem solving, and poetry.
+- 👨‍🎓 I’m a Btech student at Indian Institute of Information Technology,Sri City.
+- 💼 Core member at GDSC-IIITS(Android)
+- 📫 How to find me: 
+  - :office: [LinkedIn](https://www.linkedin.com/in/yash-gupta-32b821200/)
+  - 🐦 [Twitter](https://twitter.com/twittyash33)
+  - 📧 [Mail](yashguptaaa333@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashhhgupta&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
