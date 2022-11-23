@@ -2,7 +2,6 @@
 
 - :zap: I love programming, problem solving, and poetry.
 - 👨‍🎓 I’m a Btech student at Indian Institute of Information Technology,Sri City.
-- 💼 Core member at GDSC-IIITS(Android)
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/yash-gupta-32b821200/)
   - 🐦 [Twitter](https://twitter.com/twittyash33)
